@@ -1,1 +1,7 @@
 Acá definiremos nuestras configuraciones
+
+Como configurar nuestro Git con Gitub
+
+
+git config --global user.name "Tu usuario"
+git config --global user.email "tu_email@example.com"
